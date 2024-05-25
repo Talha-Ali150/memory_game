@@ -1,0 +1,25 @@
+.yellow {
+    background-color: #4280b9;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    margin: 5px 25px;
+}
+
+.black {
+    background-color: #4280b9;
+    color: #4280b9;
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    margin: 5px 25px;
+}
+
+.grid {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    margin: 0 auto;
+}

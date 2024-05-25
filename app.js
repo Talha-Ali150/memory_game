@@ -40,7 +40,7 @@ function checkForMatch() {
     cardsChosenId = [];
     resultDisplay.textContent = cardsWon.length;
     if (cardsWon.length === cardArray.length / 2) {
-        resultDisplay.textContent = 'Congragulations! You Won';
+        resultDisplay.textContent = 'Congratulations! You Won';
     }
 }
 
